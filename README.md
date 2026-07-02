@@ -1,8 +1,8 @@
 This is a Demo for Git & Github class.
 
 
-#Teacher
+# Teacher
 Shradha khapra
 
-#Student
+# Student
 Dushant Dhawas
