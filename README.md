@@ -6,3 +6,11 @@ Shradha khapra
 
 # Student
 Dushant Dhawas
+
+# Friend
+Nikhil Madavi
+and Manish Kumar
+
+
+
+
